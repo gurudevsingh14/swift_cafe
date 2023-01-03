@@ -1,7 +1,8 @@
 # swift_cafe
 
-A new Flutter project.
-
+<span><img src="./assets/ScreenShots/auth_screen.jpeg" height=600px></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span><img src="./assets/ScreenShots/home_screen.jpeg" height=600px></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span><img src="./assets/ScreenShots/product_detail_screen.jpeg" height=600px></span>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
